@@ -1,2 +1,2 @@
-4 in a row game in c#
+Four in a row game written in c#
  
